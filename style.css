@@ -1,0 +1,14 @@
+.contactsList {
+    color: grey;
+    font-size: 25px;
+    margin-left: 25%;
+}
+
+.contactImage {
+    margin: 50px;
+}
+
+.contactEmail {
+    padding: 20px;
+    border: 2px solid green;
+}
